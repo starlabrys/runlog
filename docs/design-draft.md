@@ -1,7 +1,7 @@
 # runlog — 设计草稿 (v0.3)
 
-> 草稿。仓库建好后会按 mattpocock-skills 规范拆成：
-> 第 3 节 → `CONTEXT.md`（术语表）；第 4 节 → `docs/adr/`（决策记录）；第 5–9 节 → `/to-spec` 生成的需求文档。
+> 拆分进行中。**已落地**：第 3 节 → [`CONTEXT.md`](../CONTEXT.md)；第 4 节 → [`docs/adr/`](adr/)（0001–0006）。这两部分以那些文件为准，本草稿对应章节仅存档。
+> **待办**：第 5–9 节 → `/mattpocock-skills:to-spec` 生成的需求文档（GitHub issue）。spec 发布后本草稿可整体归档 / 删除。
 >
 > **仓库**：`starlabrys/runlog`（公司 org，公开），由 OpenTofu 创建（`starlabrys-infra` 的 `github/opentofu/runlog/`）。**License**：AGPL-3.0（与 enx 一致）。决策见 `starlabrys/ops` 的 `docs/github/ADR-0002-runlog-repo.md`。
 
