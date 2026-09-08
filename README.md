@@ -10,7 +10,7 @@
 
 - 术语表：[`CONTEXT.md`](CONTEXT.md)
 - 架构决策：[`docs/adr/`](docs/adr/)（0001–0006）
-- Phase 1 需求：[issue #1](https://github.com/starlabrys/runlog/issues/1)（副本 [`docs/spec-phase1.md`](docs/spec-phase1.md)）
+- Phase 1 需求：[issue #1](https://github.com/starlabrys/runlog/issues/1)（真源；仓库里 [`docs/spec-phase1.md`](docs/spec-phase1.md) 只是指针）
 
 工程流程按 [mattpocock-skills](https://github.com/mattpocock/skills)。
 
