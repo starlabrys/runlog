@@ -6,10 +6,13 @@
 
 ## 状态
 
-设计阶段，尚无代码。
+设计完成，尚无 App 代码。
 
-- 设计草稿：[`docs/design-draft.md`](docs/design-draft.md)
-- 需求文档 / `CONTEXT.md` / ADR：待用 [mattpocock-skills](https://github.com/mattpocock/skills) 流程生成
+- 术语表：[`CONTEXT.md`](CONTEXT.md)
+- 架构决策：[`docs/adr/`](docs/adr/)（0001–0006）
+- Phase 1 需求：[issue #1](https://github.com/starlabrys/runlog/issues/1)（副本 [`docs/spec-phase1.md`](docs/spec-phase1.md)）
+
+工程流程按 [mattpocock-skills](https://github.com/mattpocock/skills)。
 
 ## 分阶段
 

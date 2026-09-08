@@ -217,4 +217,4 @@ Also out of scope for this spec:
 
 **Vocabulary.** This spec uses the glossary in [`CONTEXT.md`](../CONTEXT.md). Notably, *pause* means only a deliberate user action and never the automatic transition into Idle; *Route* is the recorded GPS sequence while GPX is merely an export of it; and a *Session* is the live span whereas a *Workout Record* is what persists.
 
-**Supersedes.** Sections 5–9 of [`docs/design-draft.md`](design-draft.md). Section 8 of that draft proposed three test seams (classifier, GPS/distance, Splits); this spec deliberately narrows that to one, since all three are observable at the `SessionProcessor` boundary.
+**Supersedes.** Sections 5–9 of the earlier `docs/design-draft.md` (removed; kept in git history). That draft's section 8 proposed three test seams (classifier, GPS/distance, Splits); this spec deliberately narrows that to one, since all three are observable at the `SessionProcessor` boundary.
