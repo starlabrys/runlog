@@ -32,6 +32,10 @@ _Avoid_: elapsed time, total time (those also count Walking and Idle)
 The Session moving itself into an Idle Segment when motion stops, and back out when it resumes, with no user action.
 _Avoid_: pause (a deliberate user action)
 
+**Auto-end**:
+The Session ending on its own, with no stop press, after a set number of continuous minutes with no Running Segment. Distinct from auto-pause, which only moves the Session into Idle and lets it keep going.
+_Avoid_: timeout, auto-stop
+
 **Force start / Force end**:
 A control the runner taps to override the classification and begin or end a Running Segment immediately, whatever the motion signals say.
 _Avoid_: manual lap, manual pause
